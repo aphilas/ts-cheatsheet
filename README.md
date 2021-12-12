@@ -187,7 +187,7 @@ type ExtractId<T> = {
 }
 
 interface Device {
-  x: { id: true },
+  x: { id: true }
   y: { id: false }
 }
 
